@@ -62,4 +62,4 @@ domain: harken-studio.github.io/BattleMapStudio_Public/       # if you want to f
 url: https://harken-studio.github.io/BattleMapStudio_Public/ # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /docs/      # place folder name if the site is served in a subfolder
 
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
